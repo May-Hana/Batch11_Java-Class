@@ -1,4 +1,4 @@
-package com.company.calculator;
+package com.javaclass.partone;
 public class Lesson6_ArrayCopy {
     public static void main(String[] args){
         //Array Copy

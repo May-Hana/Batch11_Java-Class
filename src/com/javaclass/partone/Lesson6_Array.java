@@ -1,4 +1,4 @@
-package com.company.calculator;
+package com.javaclass.partone;
 
 import java.util.Arrays;
 

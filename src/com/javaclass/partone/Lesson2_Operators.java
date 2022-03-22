@@ -1,4 +1,4 @@
-package com.company.calculator;
+package com.javaclass.partone;
 
 public class Lesson2_Operators {
     public static void main(String[] args) {

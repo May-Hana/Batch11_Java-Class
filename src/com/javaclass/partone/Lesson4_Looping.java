@@ -1,4 +1,4 @@
-package com.company.calculator;
+package com.javaclass.partone;
 
 public class Lesson4_Looping {
     public static void main(String[] args) {
